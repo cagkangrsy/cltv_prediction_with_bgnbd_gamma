@@ -1,5 +1,5 @@
 
-# CLTV Prediction with BG-NBD ve Gamma-Gamma Models
+# CLTV Prediction with BG-NBD and Gamma-Gamma Models
 
 FLO, an online shoe store, wants to define a roadmap for their sales and marketing actions. For the company to make medium-long term plans, the potential value that existing customers will bring should be predicted.
 
